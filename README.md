@@ -35,9 +35,11 @@ Para obter mais detalhes sobre como montar a estrutura dentro do Software Cisco 
 
 <details open>
 <summary><h3> Equipe do projeto.</h3></summary>
-<br>
+  
+
 Acesse o Github dos integrantes do grupo:
-<br>
+  
+  
 <table>
   <tr>
     <td align="center">
@@ -48,11 +50,6 @@ Acesse o Github dos integrantes do grupo:
         </sub>
       </a>
     </td>
-  </tr>
-</table>
-<br>
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/TulioB27">
         <img src="https://avatars.githubusercontent.com/u/119745205?v=4" width="100px;" alt="Foto de Túlio Bernando Ferreira"/><br>
