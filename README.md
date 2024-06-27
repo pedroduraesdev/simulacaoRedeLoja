@@ -8,7 +8,7 @@ Para mais detalhes, acesse a <a href="https://github.com/pedroduraesdev/simulaca
 <details>
 <summary><h3> Requisitos</h3></summary>
 
-Para visualizar a estrutura de loja montada pela equipe, siga o passo a passo descrito em, <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/02-Conhecendo%20o%20Software.md">Conhecendo o SoftWare</a>
+Para visualizar a estrutura de loja montada pela equipe, siga o passo a passo descrito em, <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/02-Conhecendo%20o%20Software.md">Conhecendo o Software</a>.
 </details>
 
 <details>
@@ -28,13 +28,13 @@ A simulação representa a infraestrutura de rede de uma loja fictícia, incluin
 <br>
 • 4 Computadores
 
-
+<br>
 Para obter mais detalhes sobre como montar a estrutura dentro do Cisco Packet Tracer, acesse <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/03-Primeiros%20Passos.md">Primeiros Passos</a>.
 </details>
 
 
 <details>
-<summary><h3> Equipe do projeto.</h3></summary>
+<summary><h3> Equipe do projeto</h3></summary>
   
 
 Acesse o Github dos integrantes do grupo:
