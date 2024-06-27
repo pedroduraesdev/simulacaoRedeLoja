@@ -1,21 +1,19 @@
-<h1 align="center">:file_cabinet: Simulando uma rede de loja com software Cisco Packet Tracer.</h1>
+<h1 align="center">Simulando uma rede de loja com software Cisco Packet Tracer.</h1>
 
 Este repositório contém uma simulação de rede de uma loja utilizando o software Cisco Packet Tracer. O projeto tem como objetivo ilustrar a configuração e o funcionamento de uma rede corporativa de pequeno a médio porte, abrangendo aspectos como a interligação de dispositivos, configuração de VLANs, roteamento, e segurança.
 
 
 <details open>
 <summary><h3> Requisitos</h3></summary>
-<br>
-Para visualizar a estrutura de loja montada pela equipe, precisa seguir o passo a passso descrito no Tópico 02- Conhecendo o Software, abaixo:
-<br>
-<a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/02-Conhecendo%20o%20Software.md">Clique Aqui!</a>!
+Para visualizar a estrutura de loja montada pela equipe, precisa seguir o passo a passso descrito no Tópico 02- Conhecendo o Software, <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/02-Conhecendo%20o%20Software.md">Clique Aqui!</a>
 </details>
-<br>
 
 <details open>
-<summary><h3> Descrição do Projeto</h3></summary>
-<br>
-A simulação representa a infraestrutura de rede de uma loja fictícia, incluindo:
+
+<summary><h3> Descrição do Projeto</h3></summary> 
+
+A simulação representa a infraestrutura de rede de uma loja fictícia, incluindo:  
+
 <br>
 • Moldem Operadora.
 <br>
@@ -26,8 +24,10 @@ A simulação representa a infraestrutura de rede de uma loja fictícia, incluin
 • 2 Switch's.
 <br>
 • 4 Computadores.
-<br>
-Para obter mais detalhes sobre como montar a estrutura dentro do Software Cisco Packet Tracer, acesse o link abaixo do tópico 03-Primeiros Passos. 
+<br>  
+
+Para obter mais detalhes sobre como montar a estrutura dentro do Software Cisco Packet Tracer, acesse o link abaixo do tópico 03-Primeiros Passos.   
+
 <br>
 <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/03-Primeiros%20Passos.md">Clique Aqui!</a>!
 </details>
