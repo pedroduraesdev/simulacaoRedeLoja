@@ -27,7 +27,7 @@ A simulação representa a infraestrutura de rede de uma loja fictícia, incluin
 • 2 Switches
 <br>
 • 4 Computadores
-
+<br>
 <br>
 Para obter mais detalhes sobre como montar a estrutura dentro do Cisco Packet Tracer, acesse <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/03-Primeiros%20Passos.md">Primeiros Passos</a>.
 </details>
