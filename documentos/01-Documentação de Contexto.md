@@ -12,9 +12,9 @@ O objetivo primário deste projeto é configurar uma rede interna para a loja qu
 
 ## Objetivo Secundário
 
-• Assegurar que o servidor da loja (SERVIDOR LOJA) receba a internet corretamente do modem e distribua para o roteador da loja (ROTEADOR LOJA).
-• Configurar as redes específicas para os caixas, o administrativo e a conexão entre o servidor e o roteador.
-• Implementar regras de firewall para restringir o acesso à internet dos computadores dos caixas.
+• Assegurar que o servidor da loja (SERVIDOR LOJA) receba a internet corretamente do modem e distribua para o roteador da loja (ROTEADOR LOJA).<br>
+• Configurar as redes específicas para os caixas, o administrativo e a conexão entre o servidor e o roteador.<br>
+• Implementar regras de firewall para restringir o acesso à internet dos computadores dos caixas.<br>
 • Garantir que os computadores do setor administrativo tenham acesso irrestrito à internet.
 
 ## Justificativa
@@ -23,7 +23,7 @@ A segurança dos dados é crucial para o funcionamento da loja, especialmente no
 
 ## Público-Alvo
 
-• Equipe de TI da Loja: Responsável pela implementação, manutenção e monitoramento da rede.
-• Gerentes da Loja: Interessados na segurança e eficiência das operações da loja.
-• Operadora de Internet: Fornece a conectividade necessária para a operação da rede da loja.
+• Equipe de TI da Loja: Responsável pela implementação, manutenção e monitoramento da rede.<br>
+• Gerentes da Loja: Interessados na segurança e eficiência das operações da loja.<br>
+• Operadora de Internet: Fornece a conectividade necessária para a operação da rede da loja.<br>
 • Funcionários dos Caixas e Administrativo: Usuários finais da rede que necessitam de acesso controlado e seguro à internet.
