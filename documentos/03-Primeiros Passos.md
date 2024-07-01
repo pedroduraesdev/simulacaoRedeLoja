@@ -8,6 +8,7 @@ Depois de instalado o software, é preciso executar o atalho criado na aréa de 
 Exemplo de como selecionar como selecionar um item no Cisco Packet Tracer:<br>
 
 
+https://github.com/pedroduraesdev/simulacaoRedeLoja/assets/120066201/e91fc241-c98f-4d96-859c-13317391a01b
 
 
  A rede será composta por:<br>
