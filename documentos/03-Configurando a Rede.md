@@ -64,6 +64,6 @@ Para selecionar os Computadores utilizado no exemplo, é preciso seguir essas or
 ### Rede Completa
 A imagem abaixo é de como ficou o projeto final:
 
-![Rede Completa](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/RedeMontada2)<br>
+![Rede Completa](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/RedeMontada2.png)<br>
 
 O passo a passo acima foi para demonstrar como é possível selecionar os componentes utilizados no projeto, portanto para verificar como ficou o projeto final é possível baixar o arquivo: ![Rede.pkt](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/archives/REDE.pkt)
