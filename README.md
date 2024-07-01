@@ -18,7 +18,7 @@ Para visualizar a estrutura de loja montada pela equipe, siga o passo a passo de
 A simulação representa a infraestrutura de rede de uma loja fictícia, incluindo:  
 
 <br>
-• Moldem Operadora
+• Modem Operadora
 <br>
 • Servidor Loja
 <br>
