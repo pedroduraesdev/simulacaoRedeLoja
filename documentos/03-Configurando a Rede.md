@@ -32,9 +32,9 @@ Para selecionar a Cloud utilizado no exemplo, é preciso seguir essas orientaç�
 </details><br>
 
 <details>
-<summary><h4>4.  Moldem Operadora</h4></summary>
+<summary><h4>4.  Modem Operadora</h4></summary>
 
-Para selecionar o Moldeom da Operadora utilizado no exemplo, é preciso seguir essas orientações e o vídeo de como selecionar os componetes. ![Moldem Operadora](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/MoldemOperadora.png)
+Para selecionar o Modem da Operadora utilizado no exemplo, é preciso seguir essas orientações e o vídeo de como selecionar os componetes. ![Modem Operadora](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/MoldemOperadora.png)
 </details><br>
 
 <details>
@@ -61,9 +61,10 @@ Para selecionar os Computadores utilizado no exemplo, é preciso seguir essas or
 </details><br>
 
 
-### Rede Completa
+<details>
+<summary><h4>Rede Completa</h4></summary>
+
 A imagem abaixo é de como ficou o projeto final:
 
-![Rede Completa](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/RedeMontada2.png)<br>
-
-O passo a passo acima foi para demonstrar como é possível selecionar os componentes utilizados no projeto, portanto para verificar como ficou o projeto final é possível baixar o arquivo: ![Rede.pkt](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/archives/REDE.pkt)
+ ![Rede Completa](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/RedeMontada2.png)
+</details><br>
