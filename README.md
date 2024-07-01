@@ -29,7 +29,9 @@ A simulação representa a infraestrutura de rede de uma loja fictícia, incluin
 • 4 Computadores
 <br>
 <br>
-Para obter mais detalhes sobre como montar a estrutura dentro do Cisco Packet Tracer, acesse <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/03-Configurando%20a%20Rede.md">Configurando a Rede</a>. <br>
+Para obter mais detalhes sobre como montar a estrutura dentro do Cisco Packet Tracer, acesse <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/03-Configurando%20a%20Rede.md">Configurando a Rede</a>.
+<br>
+
 Após configurar o ambiente para abrir o arquivo do projeto completo, visite o <a href="https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/05-Funcionamento%20da%20Rede.md">Funcionamento da Rede</a> para entender como foi criado o funcionamento e a lógica.
 </details>
 
