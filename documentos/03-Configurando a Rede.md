@@ -60,8 +60,15 @@ Para selecionar os Switches utilizado no exemplo, é preciso seguir essas orient
 Para selecionar os Computadores utilizado no exemplo, é preciso seguir essas orientações e o vídeo de como selecionar os componetes. ![Computadores](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/ComputadoresLoja.png)
 </details><br>
 
-### Estrutura final
+### Estrutura sem lógica.
 
 Ao final de todo processo você terá uma estrutura parecida com essa:<br>
 
 ![Rede Montada 1](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/img/RedeMontada1.png)
+
+### Adicionando cabeamento na Rede>
+
+Para realizar o cabeamento da Rede é preciso seguir esse passo:
+
+
+![Cabeando](https://github.com/pedroduraesdev/simulacaoRedeLoja/blob/main/documentos/archives/Como%20cabear%20os%20componentes.mp4)
