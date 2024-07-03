@@ -28,4 +28,7 @@ Para aumentar a segurança dos dados da loja, foram implementadas políticas de 
 
 ### Configuração do Firewall
 
-A configuração do firewall foi realizada através do acesso ao Servidor da Loja > Desktop > Firewall, selecionando a placa de rede apropriada e criando as regras de filtragem de acordo com as políticas de segurança estabelecidas.
+A configuração do firewall foi realizada através do acesso ao Servidor da Loja > Desktop > Firewall, selecionando a placa de rede apropriada e criando as regras de filtragem de acordo com as políticas de segurança estabelecidas.<br>
+A fim de explicação, montamos um slide explicando o que é um firewall.<br>
+[Firewalls-Seguranca-de-Rede-Essencial.pdf](https://github.com/user-attachments/files/16087219/Firewalls-Seguranca-de-Rede-Essencial.pdf)
+
